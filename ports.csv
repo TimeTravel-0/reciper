@@ -2,20 +2,17 @@ id;name;block_id;direction;relative_amount;unit;allow_open
 1;input;1;in;1;;1
 2;output;1;out;1;;1
 3;input;2;in;1;;1
-4;output x2;2;out;2;;1
-5;;;;;;
-6;;;;;;
-7;;;;;;
-8;;;;;;
-9;;;;;;
-10;;;;;;
-11;;;;;;
-12;;;;;;
-13;;;;;;
-14;;;;;;
-15;;;;;;
-16;;;;;;
-17;;;;;;
-18;;;;;;
-19;;;;;;
-20;;;;;;
+4;flour;8;in;75;g;1
+5;milk;8;in;150;ml;1
+6;egg;8;in;100;g;1
+7;salt;8;in;1;pinch;1
+8;pencake dough;8;out;325;g;1
+9;raw egg;9;in;1;;1
+10;liquid;9;out;0.87;;1
+11;shell;9;out;0.13;;1
+12;flour;10;in;1;;1
+13;flour;10;out;0.999;;1
+14;dough;11;in;1;;1
+15;penkace;11;out;2;;1
+16;egg(s);12;in;1;count;1
+17;egg(s);12;out;50;g;1

@@ -1,16 +1,11 @@
 id;name;duration;operation
 1;nop;0;do nothing
 2;doubler;0;take two
-3;;;
-4;;;
-5;;;
-6;;;
-7;;;
-8;;;
-9;;;
-10;;;
-11;;;
-12;;;
+8;mix pencake;0;a
+9;open egg;30;
+10;sift flour;30;
+11;fry pencake;0;
+12;medium egg to grams;0;
 13;;;
 14;;;
 15;;;
